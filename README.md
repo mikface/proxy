@@ -8,3 +8,4 @@ cd ./proxy
 chmod +x install.sh
 ./install.sh
 ```
+set up port 51515 and IPs i VPC network => Firewall rules
